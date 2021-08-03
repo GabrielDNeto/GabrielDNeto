@@ -1,4 +1,9 @@
 ### Hello 🌻
-I'm Gabriel Neto, front-end web developer, building web applications with ReactJS/NextJS and Studying Node for back-end.
+I'm Gabriel Neto, front-end web developer starting my journey at FullStack developer.
+
+###Techs:
+- ReactJS
+- NodeJS
+- NextJS
 
 🚀 Never Stop Learning 🚀

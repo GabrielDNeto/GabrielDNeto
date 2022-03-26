@@ -1,5 +1,5 @@
 ### Hello 🌻
-I'm Gabriel Neto, front-end web developer starting my journey at FullStack developer.
+I'm Gabriel Neto, front-end web developer starting my journey as FullStack developer.
 
 Techs:
 - ReactJS
